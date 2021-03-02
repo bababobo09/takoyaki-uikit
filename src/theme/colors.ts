@@ -1,12 +1,12 @@
-import { Colors } from "./types";
+import {Colors} from "./types";
 
 export const baseColors = {
-  failure: "#ED4B9E",
+  failure: "#db504a",
   primary: "#8a6a10",
-  primaryBright: "#67500c",
-  primaryDark: "#8f6e10",
-  secondary: "#a56227",
-  success: "#31D0AA",
+  primaryBright: "#C35B0F",
+  primaryDark: "#DB8439",
+  secondary: "#BB4D00",
+  success: "#a7c957",
   warning: "#FFB237",
 };
 
@@ -44,7 +44,7 @@ export const darkColors: Colors = {
   input: "#483f5a",
   // primaryDark: "#0098A1",
   tertiary: "#353547",
-  text: "#EAE2FC",
+  text: "#EFEFFC",
   textDisabled: "#666171",
   textSubtle: "#c9c4d4",
   borderColor: "#524B63",
