@@ -2645,12 +2645,12 @@ var ResetCSS = createGlobalStyle(templateObject_1$K || (templateObject_1$K = __m
 var templateObject_1$K;
 
 var baseColors = {
-    failure: "#ED4B9E",
+    failure: "#db504a",
     primary: "#8a6a10",
-    primaryBright: "#67500c",
-    primaryDark: "#8f6e10",
-    secondary: "#a56227",
-    success: "#31D0AA",
+    primaryBright: "#C35B0F",
+    primaryDark: "#DB8439",
+    secondary: "#BB4D00",
+    success: "#a7c957",
     warning: "#FFB237",
 };
 var brandColors = {
@@ -2661,7 +2661,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { ba
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#be7434", background: "#343135", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", 
     // primaryDark: "#0098A1",
-    tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
+    tertiary: "#353547", text: "#EFEFFC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
