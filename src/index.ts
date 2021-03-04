@@ -2,6 +2,7 @@
 export * from "./components/Alert";
 export * from "./components/Breadcrumbs";
 export * from "./components/Button";
+export * from "./components/Box";
 export * from "./components/ButtonMenu";
 export * from "./components/Card";
 export * from "./components/Checkbox";
@@ -32,5 +33,5 @@ export * from "./widgets/Toast";
 export * from "./widgets/WalletModal";
 
 // Theme
-export { default as ResetCSS } from "./ResetCSS";
+export {default as ResetCSS} from "./ResetCSS";
 export * from "./theme";
