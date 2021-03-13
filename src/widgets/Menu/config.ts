@@ -76,7 +76,7 @@ export const socials = [
       },
       {
         label: "TG Group",
-        href: "https://t.me/joinchat/J2QswpH2wEQ0NTQx",
+        href: "https://t.me/takoyakifinance",
       },
     ],
   },
