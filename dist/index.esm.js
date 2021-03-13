@@ -2056,8 +2056,12 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "Announcements",
-                href: "https://t.me/takoyakidefi",
+                label: "TG Announcements",
+                href: "https://t.me/takoyaki_finance",
+            },
+            {
+                label: "TG Group",
+                href: "https://t.me/takoyakifinance",
             },
         ],
     },
